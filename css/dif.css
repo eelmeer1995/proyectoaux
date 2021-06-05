@@ -1,0 +1,35 @@
+*{
+	margin:30px;
+	padding:0px;
+}
+body
+{
+		background: url(../images/ppl.jpg);
+}
+header{
+	height:70px;
+	text-align: center;
+	color:white;
+	text-shadow: 3px 2px;
+	font-size: 30px
+}
+nav
+{
+	height:36px;
+	width:96%;
+	opacity: 0.9;
+	background:#1E1E25;
+	border-radius: 30px;
+	font-family: Times New Roman;
+	text-align: center;
+	padding: 0px;
+	color:white;	
+}
+section{
+	height: 380 px;
+	width: 95%;
+	margin: 10px;
+	border-radius:20px;
+	background:# 006633;
+	color: black;
+}
